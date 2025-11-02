@@ -1,0 +1,232 @@
+age,gender,study_hours_per_day,social_media_hours,netflix_hours,part_time_job,attendance_percentage,sleep_hours,diet_quality,exercise_frequency,parental_education_level,mental_health_rating,extracurricular_participation,exam_score,academic_load,study_method,motivation_level,time_management_tools,stress_level
+23,Hombre,0,1,1,No,80,6,Regular,1,Preparatoria,7,No,8,8,Lectura pasiva,8,No,6
+19,Hombre,2,1,0,No,100,7,Buena,3,Universidad o mas,10,No,9,8,Lectura pasiva,8,No,6
+20,Hombre,0,4,0,No,90,7,Regular,0,Preparatoria,7,No,9,8,Otro,6,Si,6
+19,Hombre,3,7,0,No,100,6,Regular,5,Universidad o mas,8,Si,8,9,Practica,10,No,8
+18,Hombre,3,2,2,No,100,7,Regular,4,Secundaria o menos,7,No,9,9,Practica,4,No,8
+19,Hombre,2,3,3,No,100,7,Regular,0,Preparatoria,8,No,7,9,Lectura pasiva,5,No,9
+19,Hombre,1,5,0,No,95,6,Regular,0,Preparatoria,7,No,8,3,Practica,4,No,10
+19,Hombre,2,4,1,No,80,6,Regular,2,Universidad o mas,7,No,9,7,Practica,7,No,8
+21,Mujer,1,4,1,No,95,7,Regular,0,Preparatoria,8,No,9,7,Lectura pasiva,6,No,5
+20,Hombre,3,4,1,Si,80,5,Regular,3,Secundaria o menos,7,Si,8,8,Practica,8,No,8
+25,Hombre,4,2,0,No,89,6,Regular,0,Universidad o mas,7,No,9,8,Practica,8,No,5
+19,Hombre,1,2,1,No,86,7,Buena,0,Universidad o mas,8,No,9,9,Practica,7,Si,5
+18,Mujer,3,5,2,No,90,6,Regular,0,Universidad o mas,8,No,9,8,Practica,9,No,5
+19,Hombre,3,1,0.5,No,100,4,Regular,2,Preparatoria,5,No,9,8,Lectura pasiva,6,No,8
+18,Hombre,4,2,1,No,100,6,Regular,2,Preparatoria,8,No,8,8,Practica,7,No,8
+19,Hombre,3,3,0.2,Si,100,7,Buena,2,Secundaria o menos,7,Si,10,6,Resumen,9,Si,8
+20,Hombre,1,5,3,No,100,5,Regular,2,Secundaria o menos,10,No,8,8,Resumen,5,No,9
+18,Otro,2,2,1,No,100,6,Regular,0,Universidad o mas,8,No,10,7,Practica,6,No,7
+19,Otro,1,2,0,No,75,7,Regular,5,Universidad o mas,6,No,8,5,Resumen,4,No,10
+20,Mujer,2,1,1,No,98,7,Buena,5,Secundaria o menos,7,No,9,8,Resumen,3,No,6
+18,Hombre,3,2,0,Si,100,6,Buena,0,Universidad o mas,7,No,9,5,Practica,6,No,5
+19,Hombre,1,2,0,Si,100,5,Regular,1,Universidad o mas,5,No,9,5,Practica,7,No,7
+19,Mujer,2,2,0,Si,90,7,Regular,0,Universidad o mas,8,No,8,8,Practica,6,No,5
+19,Hombre,6,3,1,Si,80,6,Mala,4,Preparatoria,7,Si,9,9,Resumen,5,No,7
+19,Mujer,3,3,1,Si,90,8,Regular,5,Universidad o mas,8,No,9,8,Resumen,7,Si,5
+19,Hombre,2,1,0,Si,97,5,Mala,3,Secundaria o menos,5,Si,9,9,Practica,7,No,8
+17,Hombre,2,0.5,0.05,No,100,6,Buena,4,Universidad o mas,7,Si,10,6,Mapas mentales,8,Si,9
+45,Mujer,2,0.5,0.2,Si,100,5,Regular,0,Preparatoria,9,No,10,7,Practica,9,Si,9
+19,Hombre,1,0.5,1,Si,80,7,Buena,5,Universidad o mas,7,No,9,6,Resumen,5,Si,9
+18,Otro,1,3,0,No,100,7,Regular,2,Secundaria o menos,7,Si,9,6,Mapas mentales,9,No,7
+18,Hombre,0.3,2,0.5,No,100,8,Buena,5,Universidad o mas,10,No,9,6,Practica,8,Si,7
+23,Mujer,7,2,1,Si,100,6,Regular,5,Secundaria o menos,8,No,9,8,Practica,9,No,3
+17,Hombre,0,3,1,No,100,5,Regular,0,Preparatoria,8,No,8,5,Practica,7,No,6
+18,Hombre,3.5,1,0,Si,100,7,Regular,1,Preparatoria,8,No,8,5,Practica,8,Si,9
+18,Hombre,2,3,2,No,98,6,Regular,2,Preparatoria,8,Si,9,6,Resumen,8,No,6
+20,Hombre,1.5,1,1,Si,85,7,Regular,5,Universidad o mas,7,No,9,8,Lectura pasiva,7,No,8
+18,Mujer,14,2,1,No,100,5,Regular,3,Secundaria o menos,8,Si,9,6,Resumen,7,No,8
+18,Hombre,3,1,0,No,100,7,Regular,6,Secundaria o menos,8,Si,9,4,Resumen,8,No,4
+17,Hombre,1,3,1,No,100,6,Regular,3,Universidad o mas,7,No,9,5,Practica,7,Si,9
+19,Hombre,1,1,2,Si,100,6,Regular,3,Universidad o mas,6,No,9,5,Practica,8,No,6
+19,Mujer,1,1,1,No,100,6,Buena,2,Universidad o mas,7,No,9,5,Resumen,9,Si,5
+18,Hombre,2,3,0,No,100,6,Regular,0,Preparatoria,9,No,9,6,Resumen,8,No,10
+17,Hombre,2,3,1,Si,100,8,Buena,2,Preparatoria,6,Si,9,6,Lectura pasiva,7,No,7
+17,Hombre,1,1,2,Si,100,8,Regular,3,Preparatoria,10,No,9,5,Lectura pasiva,9,Si,6
+19,Mujer,5,5,1,Si,90,7,Regular,1,Secundaria o menos,7,No,9,7,Practica,7,Si,7
+17,Hombre,1,0.5,0.5,No,100,5,Regular,0,Preparatoria,6,No,9,6,Otro,6,No,7
+19,Hombre,1,2,1,Si,100,6,Regular,5,Secundaria o menos,5,Si,8,5,Practica,7,Si,8
+18,Hombre,7,1,0,No,100,5,Regular,3,Universidad o mas,9,No,10,5,Otro,9,No,2
+18,Mujer,5,4,1,No,100,5,Regular,1,Preparatoria,6,No,9,6,Practica,5,Si,7
+19,Mujer,4,3,1,No,95,6,Buena,3,Universidad o mas,2,No,9,6,Resumen,7,Si,8
+22,Hombre,1,2,1,Si,90,7,Regular,4,Universidad o mas,5,No,10,5,Resumen,9,Si,5
+18,Hombre,1,8,1,No,95,8,Regular,1,Preparatoria,9,No,8,6,Practica,7,No,8
+19,Hombre,3,3,0,No,80,7,Regular,0,Preparatoria,7,No,8,5,Resumen,6,No,5
+17,Hombre,2,1,1,Si,100,6,Regular,6,Secundaria o menos,6,No,8,6,Practica,9,No,8
+19,Hombre,3,1,0,Si,100,7,Buena,7,Universidad o mas,7,Si,8,5,Practica,9,Si,4
+18,Hombre,1,8,0,No,95,7,Regular,0,Universidad o mas,7,No,8,6,Otro,5,No,8
+17,Hombre,3,6,4,No,100,6,Regular,2,Preparatoria,6,No,9,6,Practica,6,No,8
+18,Hombre,2,3,2,No,20,7,Regular,3,Preparatoria,7,No,8,6,Practica,7,Si,6
+19,Hombre,3,4,3,No,100,6,Buena,3,Universidad o mas,10,No,9,6,Resumen,10,No,2
+21,Hombre,1,2,0,Si,100,6,Regular,1,Secundaria o menos,3,No,8,10,Otro,8,No,5
+20,Hombre,1,3,0.5,No,100,5,Regular,0,Preparatoria,6,No,9,7,Mapas mentales,1,No,7
+21,Hombre,3,4,5,No,100,8,Buena,2,Preparatoria,9,Si,8,6,Otro,7,No,3
+23,Hombre,1,4,1,Si,90,6,Regular,4,Secundaria o menos,8,No,8,5,Practica,8,Si,7
+21,Hombre,6,3,0,Si,70,6,Regular,6,Preparatoria,6,Si,9,3,Practica,5,No,6
+19,Mujer,3,6,3,Si,98,7,Regular,2,Preparatoria,5,No,7,8,Practica,8,Si,8
+19,Hombre,3,3,2,No,99,7,Regular,0,Preparatoria,8,No,8,7,Practica,5,Si,8
+20,Hombre,1,3,0,No,100,6,Buena,5,Universidad o mas,8,Si,9,7,Lectura pasiva,8,Si,9
+20,Mujer,3,1,1,No,90,6,Regular,1,Preparatoria,7,Si,8,7,Resumen,6,Si,8
+20,Mujer,3,2,1,Si,90,6,Regular,3,Universidad o mas,8,No,9,8,Otro,7,Si,9
+19,Hombre,0.3,3,0,No,100,7,Mala,1,Secundaria o menos,5,No,8,7,Resumen,1,No,7
+20,Hombre,2,5,0,Si,100,4,Regular,7,Universidad o mas,5,Si,9,4,Otro,3,No,10
+19,Hombre,1,4,1,No,80,6,Regular,1,Secundaria o menos,7,No,8,5,Practica,8,No,7
+19,Mujer,2,2,0,No,100,8,Buena,5,Secundaria o menos,7,No,8,6,Practica,7,No,9
+20,Hombre,1,4,0,No,100,8,Regular,4,Preparatoria,7,No,9,8,Otro,8,No,8
+19,Mujer,3,6,3,Si,98,7,Regular,2,Preparatoria,5,No,8,8,Practica,8,Si,7
+19,Hombre,2,4,1,No,85,6,Buena,4,Universidad o mas,7,Si,8,8,Lectura pasiva,7,No,6
+21,Hombre,2,5,1,No,90,8,Buena,5,Preparatoria,9,Si,8,8,Practica,8,No,6
+24,Hombre,1,0.5,1,Si,80,6,Mala,2,Secundaria o menos,9,No,8,6,Practica,7,No,6
+22,Hombre,7,3,0.5,No,80,8,Regular,5,Secundaria o menos,7,Si,8,7,Lectura pasiva,4,No,7
+22,Hombre,2,2,4,No,100,6,Regular,4,Preparatoria,8,Si,9,8,Resumen,8,Si,7
+20,Hombre,2,5,0,Si,100,4,Regular,7,Universidad o mas,5,Si,9,4,Otro,3,No,10
+19,Hombre,2,5,0,No,85,8,Regular,3,Preparatoria,6,No,8,8,Resumen,7,No,5
+19,Hombre,2,4,1,No,90,6,Regular,2,Preparatoria,9,Si,9,7,Lectura pasiva,8,Si,7
+19,Mujer,2,3,1,No,100,7,Buena,5,Universidad o mas,5,Si,9,5,Practica,7,Si,8
+25,Hombre,1,1,1,Si,60,6,Regular,6,Preparatoria,3,Si,8,4,Resumen,4,No,8
+20,Hombre,4,6,4,No,100,8,Regular,1,Preparatoria,6,No,8,9,Practica,7,No,8
+18,Hombre,1,2,1,No,97,7,Buena,5,Universidad o mas,8,No,9,7,Resumen,7,Si,6
+21,Hombre,2,3,3,No,100,7,Regular,4,Preparatoria,9,No,8,8,Practica,9,Si,5
+18,Hombre,1,2,1,No,100,9,Buena,5,Universidad o mas,10,No,9,6,Practica,10,Si,2
+18,Hombre,0.9,6,3,No,80,7,Regular,0,Universidad o mas,10,No,8,8,Practica,8,No,5
+18,Hombre,0,4,0,No,80,4,Regular,0,Secundaria o menos,6,No,8,6,Lectura pasiva,6,No,7
+19,Hombre,1,5,0,No,100,5,Regular,2,Preparatoria,8,No,9,6,Resumen,8,No,6
+21,Hombre,1,3,0,Si,70,4,Mala,0,Universidad o mas,8,No,9,8,Practica,6,No,10
+20,Mujer,5,2,0,Si,100,5,Regular,2,Preparatoria,9,Si,10,6,Practica,8,Si,10
+19,Hombre,1,3,3,No,98,8,Regular,0,Secundaria o menos,9,No,8,8,Practica,9,No,5
+20,Hombre,1,1,3,No,95,5,Regular,0,Preparatoria,9,No,9,8,Practica,9,No,3
+18,Hombre,0,1,5,No,99,6,Regular,2,Universidad o mas,7,No,7,7,Practica,7,No,9
+21,Mujer,1,4,0,No,100,6,Regular,0,Universidad o mas,7,Si,8,8,Mapas mentales,8,No,8
+19,Hombre,0,5,0,No,99,6,Regular,0,Preparatoria,7,No,9,6,Resumen,5,No,1
+20,Hombre,2,2,0,No,100,5,Regular,1,Preparatoria,9,No,9,8,Resumen,8,No,3
+18,Hombre,3,5,1,No,100,6,Regular,1,Preparatoria,7,No,9,7,Practica,8,Si,7
+20,Hombre,2,2,2,Si,90,7,Regular,4,Preparatoria,8,No,8,8,Practica,8,No,9
+19,Hombre,2,3,2,Si,100,6,Regular,1,Secundaria o menos,10,No,9,8,Otro,10,No,5
+18,Hombre,1,4,3,No,95,7,Regular,0,Universidad o mas,6,No,9,5,Practica,8,No,4
+21,Hombre,3,5,1,No,100,5,Regular,2,Preparatoria,6,No,8,6,Resumen,8,No,6
+22,Hombre,1,3,0,Si,80,8,Regular,3,Universidad o mas,8,No,9,5,Mapas mentales,7,No,8
+19,Hombre,4,6,4,No,100,6,Regular,2,Universidad o mas,8,No,9,8,Practica,9,No,10
+19,Mujer,2,2,2,No,100,8,Regular,2,Universidad o mas,5,Si,9,7,Resumen,5,Si,10
+19,Hombre,0,2,1,Si,90,6,Regular,0,Preparatoria,10,No,9,8,Practica,9,No,3
+19,Hombre,1,5,0,No,99,7,Regular,0,Secundaria o menos,3,No,8,7,Resumen,3,No,7
+19,Hombre,2,5,2,No,90,7,Regular,2,Preparatoria,8,No,9,8,Otro,8,No,9
+18,Mujer,10,5,3,No,100,8,Regular,2,Preparatoria,4,No,9,9,Practica,5,Si,7
+19,Hombre,8,4,1,Si,100,6,Mala,0,Secundaria o menos,8,No,8,8,Practica,7,No,9
+18,Hombre,7,5,2,Si,95,6,Regular,1,Preparatoria,9,No,9,8,Otro,7,No,7
+19,Hombre,8,1,2,No,90,7,Regular,4,Universidad o mas,10,No,9,7,Practica,9,No,4
+19,Hombre,1.5,3,2,Si,100,6,Regular,3,Preparatoria,7,Si,8,9,Practica,9,No,8
+18,Hombre,1,2,2,No,100,7,Regular,3,Universidad o mas,7,No,8,7,Practica,8,Si,5
+19,Hombre,1,3,0,No,100,8,Regular,3,Universidad o mas,10,No,9,9,Practica,4,No,3
+20,Hombre,0,1,0,No,95,8,Buena,4,Universidad o mas,9,No,8,6,Lectura pasiva,6,No,2
+24,Hombre,4,0,2,No,90,6,Regular,7,Universidad o mas,9,No,9,7,Lectura pasiva,9,No,4
+20,Hombre,3,1,4,No,100,7,Regular,3,Universidad o mas,7,No,8,5,Resumen,8,No,8
+17,Hombre,2,1,3,No,100,6,Buena,6,Universidad o mas,8,No,10,7,Lectura pasiva,8,No,6
+19,Hombre,2,1,2,No,95,7,Regular,0,Preparatoria,5,No,8,8,Otro,5,No,7
+19,Hombre,3,0,0,No,100,7,Regular,7,Preparatoria,9,Si,9,8,Otro,7,Si,2
+18,Hombre,4,1,1,Si,90,7,Buena,5,Preparatoria,10,Si,9,7,Practica,10,No,4
+20,Hombre,2,8,3,No,80,6,Regular,1,Universidad o mas,9,No,9,7,Practica,8,No,8
+19,Hombre,2,2,2,No,100,6,Regular,3,Universidad o mas,8,No,9,9,Mapas mentales,8,No,8
+20,Hombre,2,5,1,Si,95,6,Mala,0,Secundaria o menos,10,No,9,7,Practica,6,No,1
+19,Mujer,7,2,1,No,95,8,Buena,6,Universidad o mas,3,No,9,7,Practica,8,No,5
+19,Mujer,8,4,2,No,97,6,Regular,3,Preparatoria,8,No,9,9,Practica,7,No,7
+20,Hombre,1,4,1,No,100,7,Buena,7,Universidad o mas,10,No,9,6,Practica,8,No,3
+19,Hombre,1,2,2,Si,80,6,Regular,2,Secundaria o menos,5,No,8,8,Otro,3,No,8
+20,Hombre,2,3,1,Si,100,7,Regular,2,Preparatoria,6,No,0,6,Practica,7,Si,4
+21,Mujer,8,2,1,No,95,7,Regular,4,Preparatoria,3,Si,9,5,Resumen,7,Si,7
+22,Mujer,4,6,2,No,80,7,Regular,4,Preparatoria,8,No,9,3,Resumen,9,No,6
+21,Mujer,2,3,2,Si,99,3,Mala,3,Universidad o mas,8,No,88,5,Practica,7,No,10
+21,Mujer,6,4,1,Si,85,7,Regular,3,Universidad o mas,8,No,9,6,Resumen,4,No,9
+19,Mujer,5,2,2,Si,100,5,Regular,2,Preparatoria,5,No,10,9,Mapas mentales,7,No,8
+23,Hombre,1,4,1,No,80,6,Regular,5,Universidad o mas,8,No,9,4,Practica,9,No,10
+20,Mujer,6,2,1,No,100,5,Regular,2,Secundaria o menos,5,No,10,9,Mapas mentales,7,No,8
+19,Mujer,6,4,0,Si,100,5,Regular,0,Secundaria o menos,7,No,9,9,Practica,10,No,10
+19,Mujer,8,2,0,Si,100,6,Regular,2,Universidad o mas,7,No,10,9,Resumen,8,No,9
+19,Mujer,8,2,1,Si,100,6,Regular,2,Universidad o mas,7,No,10,9,Resumen,7,No,9
+22,Mujer,3,6,1,No,90,5,Mala,5,Preparatoria,8,No,9,3,Resumen,8,No,9
+19,Mujer,4,4,2,No,98,5,Mala,0,Preparatoria,4,No,8,8,Practica,4,No,9
+23,Hombre,3,0,0,Si,40,7,Mala,5,Secundaria o menos,7,No,9,5,Lectura pasiva,3,No,1
+24,Mujer,3,6,2,No,80,6,Regular,2,Preparatoria,9,No,9,1,Practica,6,Si,8
+20,Hombre,0.2,6,5,No,100,8,Mala,1,Universidad o mas,10,No,8,6,Practica,7,Si,1
+21,Mujer,4,6,4,Si,100,8,Buena,3,Universidad o mas,7,Si,9,4,Lectura pasiva,7,No,6
+23,Mujer,1,2,1,No,80,7,Buena,4,Universidad o mas,8,Si,9,6,Mapas mentales,8,No,7
+22,Mujer,1,2,3,No,60,8,Buena,3,Preparatoria,9,Si,10,7,Lectura pasiva,8,No,7
+20,Hombre,1,6,1,Si,80,5,Mala,1,Universidad o mas,10,No,9,6,Otro,9,No,8
+20,Hombre,4,4,1,Si,90,6,Buena,1,Universidad o mas,8,Si,10,5,Practica,7,Si,7
+21,Hombre,3,3,1,Si,100,4,Regular,2,Universidad o mas,3,Si,9,6,Practica,3,Si,10
+20,Hombre,1,3,1,Si,80,6,Buena,1,Universidad o mas,9,No,8,6,Practica,6,No,6
+19,Hombre,1,2,2,Si,100,6,Buena,2,Universidad o mas,7,No,9,6,Lectura pasiva,3,No,6
+22,Hombre,4,6,5,No,90,7,Buena,3,Universidad o mas,3,Si,9,7,Lectura pasiva,3,Si,1
+21,Hombre,1,1,3,Si,80,5,Buena,4,Universidad o mas,9,Si,9,7,Otro,5,No,3
+22,Hombre,1,2,1,No,90,7,Regular,1,Preparatoria,8,No,9,6,Practica,6,No,1
+20,Mujer,6,4,1,No,80,6,Regular,4,Universidad o mas,1,Si,9,7,Practica,7,No,7
+19,Mujer,1,3,1,Si,90,6,Mala,1,Preparatoria,7,No,9,7,Resumen,6,No,6
+20,Hombre,2,4,2,No,80,4,Regular,3,Universidad o mas,3,No,9,7,Resumen,5,No,9
+20,Hombre,1,3,1,No,90,6,Regular,4,Universidad o mas,6,Si,10,5,Practica,8,No,6
+25,Hombre,1,5,2,No,70,7,Regular,1,Secundaria o menos,7,Si,8,5,Otro,3,No,9
+22,Hombre,2,1,1,Si,80,4,Regular,4,Secundaria o menos,5,No,9,7,Lectura pasiva,5,No,4
+20,Hombre,2,1,1,No,70,5,Regular,4,Universidad o mas,9,Si,10,5,Lectura pasiva,5,Si,6
+20,Hombre,3,5,3,No,90,5,Regular,3,Universidad o mas,8,Si,10,6,Resumen,6,No,4
+20,Hombre,2,1,1,Si,100,6,Buena,3,Preparatoria,8,Si,9,6,Otro,8,Si,8
+20,Hombre,1,2,1,No,90,6,Regular,4,Preparatoria,5,No,9,6,Resumen,5,No,6
+21,Mujer,4,3,1,No,80,4,Regular,1,Secundaria o menos,6,No,10,6,Resumen,7,No,10
+21,Hombre,2,3,4,Si,70,5,Mala,1,Preparatoria,8,Si,10,6,Mapas mentales,9,No,6
+20,Mujer,2,3,1,No,90,5,Regular,2,Preparatoria,6,No,9,8,Practica,7,No,8
+20,Hombre,3,3,5,No,100,6,Regular,1,Universidad o mas,10,No,10,8,Practica,10,Si,9
+23,Hombre,5,2,1,Si,100,6,Regular,3,Preparatoria,10,No,10,8,Practica,7,Si,6
+22,Hombre,3,4,2,No,100,6,Regular,2,Preparatoria,7,No,8,5,Resumen,8,No,8
+21,Hombre,1,2,1,Si,90,6,Regular,1,Preparatoria,7,No,8,6,Practica,6,No,7
+21,Hombre,1,4,1,No,80,4,Regular,1,Preparatoria,1,No,8,6,Lectura pasiva,2,No,4
+21,Mujer,5,5,2,No,90,6,Buena,5,Preparatoria,9,No,9,5,Practica,8,Si,4
+21,Mujer,1,4,1,No,90,6,Regular,2,Secundaria o menos,5,No,7,5,Resumen,7,No,8
+21,Mujer,2,3,1,No,100,5,Regular,1,Secundaria o menos,6,No,7,5,Lectura pasiva,4,No,8
+27,Hombre,1,1,1,Si,80,5,Regular,1,Universidad o mas,7,No,7,5,Practica,7,No,6
+26,Hombre,6,1,1,No,50,4,Buena,7,Universidad o mas,10,Si,9,6,Practica,10,No,1
+21,Hombre,1,4,4,Si,100,6,Regular,5,Secundaria o menos,7,No,10,5,Lectura pasiva,7,Si,6
+23,Hombre,1,1,1,Si,90,7,Regular,5,Preparatoria,8,No,7,5,Practica,5,Si,5
+21,Mujer,2,3,1,No,70,7,Regular,1,Preparatoria,6,No,8,8,Practica,9,No,9
+23,Hombre,2,1,1,No,100,7,Regular,2,Preparatoria,6,No,7,5,Practica,5,No,9
+21,Hombre,2,4,2,Si,100,5,Regular,1,Preparatoria,5,No,6,5,Practica,6,Si,10
+19,Hombre,3,3,3,No,90,6,Mala,5,Universidad o mas,6,Si,8,6,Practica,7,Si,6
+23,Hombre,1,2,1,Si,90,7,Buena,6,Preparatoria,8,Si,8,6,Practica,8,Si,9
+21,Hombre,2,4,3,No,70,6,Regular,5,Preparatoria,10,No,8,7,Mapas mentales,7,Si,5
+22,Hombre,3,2,1,Si,100,5,Regular,3,Universidad o mas,8,No,7,7,Practica,8,No,7
+21,Hombre,2,1,3,Si,70,5,Regular,6,Universidad o mas,9,Si,4,7,Otro,6,No,10
+21,Hombre,2,2,4,No,100,6,Regular,1,Secundaria o menos,5,No,9,7,Resumen,5,No,10
+20,Mujer,1,3,4,Si,90,5,Regular,1,Secundaria o menos,9,No,7,6,Otro,6,No,10
+20,Hombre,3,3,3,No,100,7,Regular,1,Preparatoria,10,No,7,7,Practica,8,No,3
+21,Hombre,3,3,1,No,90,6,Regular,4,Universidad o mas,8,No,8,7,Lectura pasiva,9,Si,8
+21,Hombre,2,3,2,No,80,6,Regular,4,Preparatoria,7,No,9,7,Lectura pasiva,7,No,7
+21,Hombre,2,4,1,Si,80,6,Regular,1,Universidad o mas,6,No,8,7,Practica,5,Si,6
+22,Hombre,2,3,1,Si,80,7,Regular,4,Universidad o mas,7,No,7,6,Lectura pasiva,7,Si,10
+21,Hombre,1,6,1,No,100,7,Buena,6,Preparatoria,8,Si,8,7,Lectura pasiva,7,No,2
+22,Hombre,3,2,2,Si,90,7,Regular,3,Preparatoria,8,No,8,7,Practica,7,No,8
+21,Hombre,3,2,1,No,90,4,Buena,5,Secundaria o menos,1,No,8,5,Lectura pasiva,1,No,10
+25,Hombre,1,1,1,No,90,5,Regular,5,Preparatoria,8,Si,7,6,Lectura pasiva,6,No,6
+21,Mujer,2,3,2,No,80,7,Mala,2,Preparatoria,6,No,6,7,Lectura pasiva,7,No,9
+21,Hombre,1,2,1,No,90,6,Mala,2,Secundaria o menos,6,No,9,8,Practica,7,Si,8
+21,Mujer,2,2,1,Si,80,7,Buena,4,Universidad o mas,8,No,7,8,Lectura pasiva,8,Si,5
+20,Hombre,2,3,1,No,100,6,Buena,5,Universidad o mas,8,Si,9,8,Lectura pasiva,8,Si,6
+22,Mujer,4,4,1,Si,80,8,Regular,1,Secundaria o menos,9,No,8,8,Resumen,8,No,8
+21,Hombre,2,3,1,No,80,5,Regular,5,Secundaria o menos,7,No,5,9,Practica,5,No,7
+21,Mujer,6,2,1,Si,50,4,Mala,1,Secundaria o menos,7,No,7,7,Otro,6,No,8
+21,Hombre,1,1,2,No,80,6,Buena,6,Preparatoria,6,Si,7,7,Lectura pasiva,6,No,6
+21,Hombre,2,6,1,No,80,7,Buena,6,Universidad o mas,8,No,8,9,Practica,4,Si,6
+21,Otro,1,6,5,Si,10,1,Regular,7,Universidad o mas,4,Si,9,2,Resumen,3,No,8
+20,Mujer,3,1,1,No,70,8,Regular,1,Preparatoria,7,No,9,6,Practica,7,No,1
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
